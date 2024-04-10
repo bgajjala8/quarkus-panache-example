@@ -8,6 +8,6 @@
 * Endpoints
 	* GET /name/{name} - Search by name
 	* GET /id/{id} -Search by id
-	* GET /add - Get all 
+	* GET /all - Get all 
 	* POST /{name} - Create Employee
 
