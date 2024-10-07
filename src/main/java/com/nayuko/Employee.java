@@ -11,6 +11,8 @@ import lombok.NoArgsConstructor;
 
 import java.util.UUID;
 
+itest
+
 @Entity
 @Table(name = "employees")
 @Data
